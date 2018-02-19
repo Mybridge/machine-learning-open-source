@@ -19,3 +19,4 @@ A) Beginner: [Learn Machine Learning and TensorFlow in Python with Real-Life Bus
 
 <br>
 
+[Detectron: FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet. [★11109]](https://github.com/facebookresearch/Detectron?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
