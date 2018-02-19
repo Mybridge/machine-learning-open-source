@@ -19,4 +19,50 @@ A) Beginner: [Learn Machine Learning and TensorFlow in Python with Real-Life Bus
 
 <br>
 
-[Detectron: FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet. [★11109]](https://github.com/facebookresearch/Detectron?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+## Rank 1
+### [Detectron: FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet. [★11109]](https://github.com/facebookresearch/Detectron?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
+<br>
+
+## Rank 2
+### [FaceSwap: A tool that utilizes deep learning to recognize and swap faces in pictures and videos. [★3567]](https://github.com/deepfakes/faceswap?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
+<br>
+
+## Rank 3
+### [Gradient-checkpointing: Make huge neural nets fit in memory [★1073]](https://github.com/openai/gradient-checkpointing?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
+<br>
+
+## Rank 4
+### [Lime: Explaining the predictions of any machine learning classifier [★3104]](https://github.com/marcotcr/lime?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
+<br>
+
+## Rank 5
+### [Dm_control: The DeepMind Control Suite and Control Package [★873]](https://github.com/deepmind/dm_control?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
+<br>
+
+## Rank 6
+### [Psychlab: Experimental paradigms implemented using the Psychlab platform (3D platform for agent-based AI) [★4763]](https://github.com/deepmind/lab/tree/master/game_scripts/levels/contributed/psychlab?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
+<br>
+
+## Rank 7
+### [Deepj: a deep learning model for style-specific music generation. [★291]](https://github.com/calclavia/DeepJ?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
+<br>
+
+## Rank 8
+### [Simple: Experimental Global Optimization Algorithm [★201]](https://github.com/chrisstroemel/Simple?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+
+<br>
+
+## Rank 9
+### [Deep-neuroevolution: Deep Neuroevolution [★369]](https://github.com/uber-common/deep-neuroevolution)
+
+<br>
+
+## Rank 10
+### [NPMT: Towards Neural Phrase-based Machine Translation [★50]](https://github.com/posenhuang/NPMT?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
