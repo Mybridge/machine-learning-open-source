@@ -47,3 +47,11 @@ Also published on [Mybridge Publication](https://medium.mybridge.co)
 * [Web Development Open Source Top 10](https://github.com/Mybridge/web-development-articles)
 * [Machine Learning Open Source Top 10](https://github.com/Mybridge/machine-learning-open-source)
 * [Swift Open Source Top 10](https://github.com/Mybridge/swift-open-source)
+
+
+## Amazing Open Source of the Year:
+* [Amazing React Open Source for the Past Year (v.2019)](https://github.com/Mybridge/amazing-react-opensource-2019)
+* [Amazing Node.js Open Source for the Past Year (v.2019)](https://github.com/Mybridge/amazing-node-opensource-2019)
+* [Amazing Machine Learning Open Source for the Past Year (v.2019)](https://github.com/Mybridge/amazing-machine-learning-opensource-2019)
+
+
