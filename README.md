@@ -50,9 +50,10 @@ Also published on [Mybridge Publication](https://medium.mybridge.co)
 
 
 ## Amazing Open Source of the Year:
-* <b>[Amazing JavaScript Open Source for the Past Year (v.2019)](https://github.com/Mybridge/amazing-javascript-2019)</b>
+* <b>Amazing Machine Learning Open Source for the Past Year (v.2019)](https://github.com/Mybridge/amazing-machine-learning-opensource-2019)</b>
+* [Amazing JavaScript Open Source for the Past Year (v.2019)](https://github.com/Mybridge/amazing-javascript-2019)
 * [Amazing React Open Source for the Past Year (v.2019)](https://github.com/Mybridge/amazing-react-opensource-2019)
 * [Amazing Node.js Open Source for the Past Year (v.2019)](https://github.com/Mybridge/amazing-node-opensource-2019)
-* [Amazing Machine Learning Open Source for the Past Year (v.2019)](https://github.com/Mybridge/amazing-machine-learning-opensource-2019)
+
 * [Amazing Swift Open Source UI Libraries for the Past Year (v.2019)](https://github.com/Mybridge/Amazing-Swift-UI-2019)
 
